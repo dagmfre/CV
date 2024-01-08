@@ -17,7 +17,7 @@ A brief description of your MERN stack project.
 
 ## Overview
 
-![Project Overview]([[https://example.com/images/project-overview.png](https://img.freepik.com/free-photo/painting-mountain-lake-with-mountain-background_188544-9126.jpg](https://images.pexels.com/photos/268533/pexels-photo-268533.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)))
+![Project Overview](https://images.pexels.com/photos/268533/pexels-photo-268533.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
 ## Technologies
 
