@@ -17,7 +17,7 @@ A brief description of your MERN stack project.
 
 ## Overview
 
-Provide an introduction to your project, its purpose, and main features.
+![Project Overview]([https://example.com/images/project-overview.png](https://img.freepik.com/free-photo/painting-mountain-lake-with-mountain-background_188544-9126.jpg))
 
 ## Technologies
 
